@@ -54,8 +54,8 @@ body {
 }
 #intro {width: 40%;} #robin {font-size: 96px;}
 #sigil {
-    position: absolute;
-    bottom: 10%;
+    position: relative;
+    top: 75%;
     width: 160px;
     height: 161px;
 }
