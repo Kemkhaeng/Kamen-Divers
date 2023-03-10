@@ -32,6 +32,20 @@ body {
 }
 #menu span {padding: 0 30px;}
 
+a:visited { 
+    text-decoration: none; 
+    color: white; 
+   }
+
+a:link { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+#home {
+    text-decoration: underline;
+    text-decoration-color: #00B2FF;
+}
+
 #namebar {
     background: #1E1E1E;
     margin: 1px;
